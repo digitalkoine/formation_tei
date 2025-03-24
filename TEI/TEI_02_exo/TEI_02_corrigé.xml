@@ -9,17 +9,17 @@
             <title>Edition numérique du premier sonnet des Amours</title>
             <author>Ronsard</author>
             <editor xml:id="JLL">
-               <forename>Simon</forename>
-               <surname>Gabay</surname>
+               <forename>Giovanni Pietro</forename>
+               <surname>Vitali</surname>
             </editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
-               <orgName>Université de Lorraine</orgName>
+               <orgName>Université de Versailles Saint Quentin en Yvelines - Université Paris-Saclay</orgName>
                <address>
-                  <addrLine>34 cours Léopold</addrLine>
-                  <postCode>54052</postCode>
-                  <settlement>Nancy</settlement>
+                  <addrLine>47 Boulevard Vauban</addrLine>
+                  <postCode>78047</postCode>
+                  <settlement>Guyancourt</settlement>
                   <country>France</country>
                </address>
             </publisher>
@@ -59,7 +59,7 @@
      </profileDesc>
      <revisionDesc>
         <change when="2019-05-02">
-           <persName ref="#SG">Simon Gabay</persName>
+           <persName ref="#GPV">Giovanni Pietro Vitali</persName>
            Ajout des métadonnées dans le header.
         </change>
      </revisionDesc>
