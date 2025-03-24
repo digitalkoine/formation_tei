@@ -1,0 +1,8 @@
+Titre : Le Devisement du Monde
+Auteur : Marco Polo
+Date : 1552
+Description : Voici le récit des aventures de Marco.
+Langue : fr
+Source : Bibliothèque
+Édition : Accès libre
+Licence : CC0 1.0 Universel (CC0 1.0)
